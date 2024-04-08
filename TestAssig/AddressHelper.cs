@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestAssig;
 
-internal static class AddressHelper
+public static class AddressHelper
 {
     public static string GetMaxAddress(int indexMask)
     {
